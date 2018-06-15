@@ -1,0 +1,5 @@
+rainbow colors
+orange
+red
+green
+yellow
